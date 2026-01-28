@@ -1,0 +1,16 @@
+# Data Analysis & Science
+pandas
+numpy
+scikit-learn
+joblib
+
+# Deep Learning
+tensorflow
+
+# Chemoinformatics (Κρίσιμο για την Pfizer)
+rdkit
+
+# Visualization & Deployment
+matplotlib
+seaborn
+streamlit
