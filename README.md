@@ -4,7 +4,7 @@
 Αυτό το project αναπτύχθηκε με στόχο την πρόβλεψη της υδατοδιαλυτότητας (LogS) χημικών ενώσεων, έναν κρίσιμο παράγοντα στο Drug Discovery. Συνδυάζει τις αρχές της **Φυσικοχημείας** με προηγμένους αλγορίθμους Machine Learning.
 
 ## 🚀 Live Demo
-
+https://soludability-dimipetr82.streamlit.app/
 
 ## 🛠 Tech Stack
 * **Chemoinformatics:** RDKit (Molecular Descriptors extraction)
